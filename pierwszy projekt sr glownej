@@ -1,0 +1,110 @@
+body
+{
+	
+	background-color: Black;
+	font-family: Verdana;
+	font-size:16px;
+	color: 	#0d0d0d;
+    width:1000px;
+	margin: auto;  
+	top: 0;  
+	right: 0;  
+	bottom: 0;  
+	left: 0;
+
+}
+<style>
+    
+    	
+	  .container{
+  display: flex;
+  background-color: #1a94ff;
+  height: 190px;
+  max-width: 400px;
+  align: center;
+  
+}
+	  
+	  #zdj
+{
+	
+	float: left;
+	Height:154px;
+	width: 154px;
+		padding: 3px;	
+}
+
+#logo
+{
+	
+ 
+  
+	align: center;
+	width: 840px;
+	 background-color: #1a94ff;
+	
+	
+	float: left;
+	Height:160px;
+}
+.tile2
+{
+ background-color: #1a94ff;
+		font-size:25px;
+	color: black;
+	padding: 26px;
+	float: left;
+	
+	text-align: center;
+	  margin-left: auto;
+		  		  margin-right: auto;
+			  
+}
+
+
+#przecinek
+{
+	clear: both;
+	
+}
+
+#content
+{
+	 background-color: #1a94ff;
+	 float: left;
+	 width: 596px;
+	Height:636px;
+	 padding: 2px;
+
+			 
+}
+		  #nav
+		  {
+			  float: left;
+			  width: 160px;
+			  Height:600px;
+	 padding: 20px;
+			  background-color: #1a94ff;
+		  }
+	  
+	  #ad
+	  {
+		
+		float: left; 
+width: 160px;
+	 padding: 20px;	
+	 Height:600px;
+ background-color: #1a94ff;	  }
+	  
+	  #stopka
+	  {
+		  
+		clear: both; 
+		 padding: 20px;
+ background-color: #1a94ff;		  width: 960px
+	  }
+	  
+
+
+	 
+    </style>
